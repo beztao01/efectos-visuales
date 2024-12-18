@@ -1,8 +1,15 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
+h1, h2, h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
 }
 
 li{
-    padding: auto;
-    list-style: none;
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    list-style-type: none;
 }
